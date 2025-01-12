@@ -101,11 +101,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Screenshots
-
-### Home Page
-![Home Page](path/to/screenshot.png)
-
----
 
 Happy brainstorming! 💡
