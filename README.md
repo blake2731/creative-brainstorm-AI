@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Creative Brainstorming Assistant
 
 A web-based application that generates creative ideas based on user prompts. Powered by Next.js, Tailwind CSS, and OpenAI, this assistant helps spark creativity by generating unique and actionable ideas.
